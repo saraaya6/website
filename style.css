@@ -66,3 +66,13 @@ hr{
     flex-direction: column;
     gap: 0.5rem;
 }
+
+.name{
+    font-size: 3rem;
+    color: #eeeeee;
+}
+
+.title{
+    font-size: 3rem;
+    color: #00adb5;
+}
