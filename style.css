@@ -113,3 +113,12 @@ hr{
     max-width: 1200px;
     gap: 10rem;
 }
+
+.textContainer{
+    display: flex;
+    flex-direction: column;
+}
+
+textTitle{
+    display: flex;
+}
