@@ -251,3 +251,13 @@ hr{
     width: 24px;
     height: 24px;
 }
+
+footer{
+    color: #eeeeee;
+    padding: 2rem;
+    text-align: center;
+}
+
+@media(max-width:1023px){
+    
+}
