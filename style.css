@@ -105,4 +105,6 @@ hr{
     backdrop-filter: blur(4px);
 }
 
-
+.aboutMe{
+    display: flex;
+}
