@@ -48,14 +48,6 @@ hr{
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
+.hero{
+    display: flex;
+}
