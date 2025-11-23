@@ -61,3 +61,8 @@ hr{
     transform: translateX(-5.5rem)translateY(1.5rem);
 }
 
+.heroSub{
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
