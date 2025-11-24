@@ -115,9 +115,11 @@ hr {
 .aboutTitle {
   color: #00adb5;
 }
-.aboutMeParagraf {
+.aboutMePar {
   text-align: justify;
-  color: rgba(238, 238, 238, 0.75);
+  color: #eeeeee;
+  font-size: 1rem;
+  font-weight: lighter;
 }
 
 .works {
