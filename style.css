@@ -103,6 +103,7 @@ hr {
   display: flex;
   flex-direction: column;
 }
+
 .textTitle {
   display: flex;
   align-items: center;
